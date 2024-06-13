@@ -23,6 +23,9 @@ The Multitonic Project addresses a critical gap in the research and publishing e
    - **Sustainable Revenue:** Transition to a revenue model by selling appropriate licenses after the initial funding period.  
    
 ### Budget  
+
+![2e768498-d535-49c0-979d-72eb9f6ea786](https://github.com/MultiTonic/.github/assets/18212928/e3229dda-d579-4b32-b7ce-5a752bf8516d)
+
 - **Principal's Salary:** $70,000  
 - **Consulting (if required):** $80,000  
 - **AI Hosting:** $80,500  
