@@ -23,27 +23,7 @@ The Multitonic Project addresses a critical gap in the research and publishing e
 3. **Incentive Mechanism:**  
    - **Initial Funding:** Offer financial incentives to early adopters to deploy the system for up to 18 months.  
    - **Sustainable Revenue:** Transition to a revenue model by selling appropriate licenses after the initial funding period.
-<<<<<<< HEAD
    - **Create a Network of Stakeholders:** Link stakeholders amongst themselves with regular calls and events to share experience and highlight the most interesting outcomes and interim results.
-=======
-   - **Create a Network of Stakeholders:**   
-
-### Budget Scenarios 
-
-| Github Maximum Budget Scenario | Gitlab Maximum Budget Scenario | 
-|------------------|------------------|
-| ![maximum_budget_scenario_with_self-hosted_github](https://github.com/MultiTonic/.github/assets/18212928/8cc485b7-19b0-4675-b25d-8a48a80c255a) | ![maximum_budget_scenario_with_gitlab_resell_license](https://github.com/MultiTonic/.github/assets/18212928/40640a06-b322-409e-a2f6-69633f70d8ba)|
-
-| Github Reduced Budget Scenario | Gitlab Reduced Budget Scenario | 
-|------------------|------------------|
-| ![reduced_budget_scenario_with_self-hosted_github](https://github.com/MultiTonic/.github/assets/18212928/ea536d04-5c53-48d6-8ec8-7a6da3886db8) | ![reduced_budget_scenario_with_gitlab_resell_license](https://github.com/MultiTonic/.github/assets/18212928/d0b8ab63-5a7d-427b-8d67-7a339c416c46)|
-
-
-| Github Minimum Budget Scenario | Gitlab Minimum Budget Scenario | 
-|------------------|------------------|
-| ![minimum_budget_scenario_with_github_resell_license](https://github.com/MultiTonic/.github/assets/18212928/f80083e4-16d7-4362-b166-a8fab6efd8e5) | ![minimum_budget_scenario_with_gitlab_resell_license](https://github.com/MultiTonic/.github/assets/18212928/c485bb2c-3fdd-4a03-812c-cb85b71f6662) |
-
->>>>>>> fb5024c73face9b644be870f95fe875a005982a3
 
 ### Implementation Plan  
 
@@ -224,8 +204,6 @@ Multitonic represents a sophisticated and highly integrated cloud architecture d
 
 ### Proposed Implementation
 
-
-
 ### Budget
 
 | Maximum Budget Scenario Self-Hosting       |
@@ -242,15 +220,14 @@ Multitonic represents a sophisticated and highly integrated cloud architecture d
 
 #### Additional Budget Scenarios
 
-| Github Maximum Budget Scenario | Gitlab Maximum Budget Scenario | 
+| Github Maximum Budget Scenario | Gitlab Maximum Budget Scenario |
 |------------------|------------------|
-| ![maximumbudgetscenariowithgithub](https://github.com/MultiTonic/.github/assets/18212928/c493425b-ed3f-4855-a17b-163e7ff97c8d) | ![maximumbudgetscenariowithgitlab](https://github.com/MultiTonic/.github/assets/18212928/973d1aab-057e-408a-a447-e64e799e3a5a)|
+| ![maximum_budget_scenario_with_self-hosted_github](https://github.com/MultiTonic/.github/assets/18212928/8cc485b7-19b0-4675-b25d-8a48a80c255a) | ![maximum_budget_scenario_with_gitlab_resell_license](https://github.com/MultiTonic/.github/assets/18212928/40640a06-b322-409e-a2f6-69633f70d8ba)|
 
-| Github Reduced Budget Scenario | Gitlab Reduced Budget Scenario | 
+| Github Reduced Budget Scenario | Gitlab Reduced Budget Scenario |
 |------------------|------------------|
-| ![300kbudgetscenariowithgithub](https://github.com/MultiTonic/.github/assets/18212928/09af16d6-7327-4781-8216-c4b30ec97f73) | ![300kbudgetscenariowithgitlab](https://github.com/MultiTonic/.github/assets/18212928/4c1902f1-5c43-4740-beb0-f194c34ea2bc)|
+| ![reduced_budget_scenario_with_self-hosted_github](https://github.com/MultiTonic/.github/assets/18212928/ea536d04-5c53-48d6-8ec8-7a6da3886db8) | ![reduced_budget_scenario_with_gitlab_resell_license](https://github.com/MultiTonic/.github/assets/18212928/d0b8ab63-5a7d-427b-8d67-7a339c416c46)|
 
-
-| Github Minimum Budget Scenario | Gitlab Minimum Budget Scenario | 
+| Github Minimum Budget Scenario | Gitlab Minimum Budget Scenario |
 |------------------|------------------|
-|![mingithub](https://github.com/MultiTonic/.github/assets/18212928/6f7944ed-89be-4800-b4d8-07f1a347e4c5)| ![mingitlab](https://github.com/MultiTonic/.github/assets/18212928/4283690c-bad1-43a3-b271-cf1e8dd581b5) |
+| ![minimum_budget_scenario_with_github_resell_license](https://github.com/MultiTonic/.github/assets/18212928/f80083e4-16d7-4362-b166-a8fab6efd8e5) | ![minimum_budget_scenario_with_gitlab_resell_license](https://github.com/MultiTonic/.github/assets/18212928/c485bb2c-3fdd-4a03-812c-cb85b71f6662) |
