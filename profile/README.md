@@ -12,26 +12,37 @@ The Multitonic Project addresses a critical gap in the research and publishing e
 4. **Create a Network of Stakeholders:** Establish a network of institutions and researchers that regularly publish data.  
 5. **Develop a Sustainable Business Model:** Transition from initial funding to a revenue-generating model through licensing.  
    
-### Project Components  
-1. **Technology Stack:**  
+### Project Components
+
+1. **Data Pipeline:**
+   - **immediately relevant:** working with partners to determine which projects' data are available for interim publication.
+   - **using existing data analysis:** host and potentially document existing data analysis pipelines.
+   - **use no code tools:** to quickly deploy and demonstrate publication impact
+2. **Technology Stack:**  
    - **Open Source:** Utilize a technology stack with auditable components that have a history of successful enterprise audits.  
    - **Packaging:** Provide the system in images or Guix packages for local or cloud deployment.  
    - **AI Component:** Integrate a minor AI component for automated report generation.  
-   
-2. **Incentive Mechanism:**  
+3. **Incentive Mechanism:**  
    - **Initial Funding:** Offer financial incentives to early adopters to deploy the system for up to 18 months.  
-   - **Sustainable Revenue:** Transition to a revenue model by selling appropriate licenses after the initial funding period.  
-   
-### Budget  
+   - **Sustainable Revenue:** Transition to a revenue model by selling appropriate licenses after the initial funding period.
+   - **Create a Network of Stakeholders:**   
 
-![2e768498-d535-49c0-979d-72eb9f6ea786](https://github.com/MultiTonic/.github/assets/18212928/e3229dda-d579-4b32-b7ce-5a752bf8516d)
+### Budget Scenarios 
 
-- **Principal's Salary:** $70,000  
-- **Consulting (if required):** $80,000  
-- **AI Hosting:** $80,500  
-- **Incentive Mechanism:** $300,000 (to offer between $2,000 and $6,000 per stakeholder institution for uptake)  
-- **Total Budget:** $530,500 - $600,000  
-   
+| Maximum Budget Scenarios       |
+|------------------|------------------|
+| ![Scenario 1](path/to/scenario1.png) | ![Scenario 2](path/to/scenario2.png) |
+
+| Reduced Budget Scenarios     |
+|------------------|------------------|
+| ![Scenario 3](path/to/scenario3.png) | ![Scenario 4](path/to/scenario4.png) |
+
+
+| Minimum Budget Scenarios       |
+|------------------|------------------|
+| ![Scenario 5](path/to/scenario5.png) | ![Scenario 6](path/to/scenario6.png) |
+
+
 ### Implementation Plan  
    
 1. **Phase 1: Initial Setup (Months 1-3)**  
