@@ -208,15 +208,15 @@ Multitonic represents a sophisticated and highly integrated cloud architecture d
 
 | Maximum Budget Scenario Self-Hosting       |
 |------------------|
-| ![maximum_budget_scenario_self-hosting](https://github.com/MultiTonic/.github/assets/18212928/50235070-a4df-4311-90a4-8f51c8ffa10d) |
+| ![maximum_budget_scenario_self-hosting](https://github.com/MultiTonic/.github/assets/18212928/e23ff61f-a947-421d-92d7-b035df1ba7da) |
 
 | Reduced Budget Scenario Self-Hosting       |
 |------------------|
-| ![reduced_budget_scenario_self-hosting](https://github.com/MultiTonic/.github/assets/18212928/3e1902ce-d1b6-4c8f-94f8-465b18d005ad) |
+| ![reduced_budget_scenario_self-hosting](https://github.com/MultiTonic/.github/assets/18212928/6c91acab-81d5-4a62-bfe6-3ecde620f89c) |
 
 | Minimum Budget Scenario Self-Hosting       |
 |------------------|
-| ![minimum_budget_scenario_self-hosting](https://github.com/MultiTonic/.github/assets/18212928/be4d0da4-26da-489a-b735-56149a163de5) |
+| ![minimum_budget_scenario_self-hosting](https://github.com/MultiTonic/.github/assets/18212928/f4f4567d-a3d3-4084-a99e-cc591df41fc4) |
 
 #### Additional Budget Scenarios
 
