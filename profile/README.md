@@ -1,17 +1,15 @@
 # Multitonic 👋
 
-## Multitonic Project Outline  
-   
-### Introduction  
 The Multitonic Project addresses a critical gap in the research and publishing ecosystem, where well over 90% of experiments fail and consequently do not get published, resulting in lost learning opportunities and duplication of efforts. Multitonic seeks to create a regular reporting system that captures and publishes intermediate results from experiments, making this valuable information accessible to the broader research community.  
-   
-### Objectives  
+
+### Objectives
+
 1. **Capture and Publish Failed Experiment Data:** Ensure that the lessons learned from failed experiments are available to other research teams.  
 2. **Standardize Data Reporting:** Create a standardized, easily interpretable format for publishing intermediate results.  
 3. **Facilitate Easy Analysis:** Provide tools for easy and lazy analysis of instrument data.  
 4. **Create a Network of Stakeholders:** Establish a network of institutions and researchers that regularly publish data.  
 5. **Develop a Sustainable Business Model:** Transition from initial funding to a revenue-generating model through licensing.  
-   
+
 ### Project Components
 
 1. **Data Pipeline:**
@@ -25,60 +23,46 @@ The Multitonic Project addresses a critical gap in the research and publishing e
 3. **Incentive Mechanism:**  
    - **Initial Funding:** Offer financial incentives to early adopters to deploy the system for up to 18 months.  
    - **Sustainable Revenue:** Transition to a revenue model by selling appropriate licenses after the initial funding period.
-   - **Create a Network of Stakeholders:**   
-
-### Budget Scenarios 
-
-| Github Maximum Budget Scenario | Gitlab Maximum Budget Scenario | 
-|------------------|------------------|
-| ![maximumbudgetscenariowithgithub](https://github.com/MultiTonic/.github/assets/18212928/c493425b-ed3f-4855-a17b-163e7ff97c8d) | ![maximumbudgetscenariowithgitlab](https://github.com/MultiTonic/.github/assets/18212928/973d1aab-057e-408a-a447-e64e799e3a5a)|
-
-| Github Reduced Budget Scenario | Gitlab Reduced Budget Scenario | 
-|------------------|------------------|
-| ![300kbudgetscenariowithgithub](https://github.com/MultiTonic/.github/assets/18212928/09af16d6-7327-4781-8216-c4b30ec97f73) | ![300kbudgetscenariowithgitlab](https://github.com/MultiTonic/.github/assets/18212928/4c1902f1-5c43-4740-beb0-f194c34ea2bc)|
-
-
-| Github Minimum Budget Scenario | Gitlab Minimum Budget Scenario | 
-|------------------|------------------|
-|![mingithub](https://github.com/MultiTonic/.github/assets/18212928/6f7944ed-89be-4800-b4d8-07f1a347e4c5)| ![mingitlab](https://github.com/MultiTonic/.github/assets/18212928/4283690c-bad1-43a3-b271-cf1e8dd581b5) |
-
+   - **Create a Network of Stakeholders:** Link stakeholders amongst themselves with regular calls and events to share experience and highlight the most interesting outcomes and interim results.
 
 ### Implementation Plan  
-   
-1. **Phase 1: Initial Setup (Months 1-3)**  
+
+1. **Phase 1: Initial Setup (Months 1-2)**  
    - **Establish Core Team:** Hire principal and consulting team.  
    - **Develop Core Technology:** Build and test the initial version of the Multitonic stack.  
    - **Set Up Hosting:** Arrange AI hosting infrastructure.  
-   
-2. **Phase 2: Pilot Program (Months 4-9)**  
+
+2. **Phase 2: Pilot Program (Months 2-4)**  
    - **Recruit Early Adopters:** Identify and onboard initial stakeholder institutions.  
    - **Deploy Technology:** Assist early adopters in deploying the Multitonic system.  
    - **Collect Feedback:** Gather user feedback to refine the system.  
-   
-3. **Phase 3: Expansion and Incentive Rollout (Months 10-18)**  
+
+3. **Phase 3: Expansion and Incentive Rollout (Months 4-8)**  
    - **Expand User Base:** Increase the number of participating institutions.  
    - **Incentive Payments:** Distribute financial incentives to stakeholders.  
    - **Publish Intermediate Results:** Ensure regular publication of intermediate results.  
-   
-4. **Phase 4: Transition to Revenue Model (Months 19-24)**  
+
+4. **Phase 4: Transition to Revenue Model (Months 8-18)**  
    - **Develop Licensing Model:** Create appropriate licensing options for institutions.  
    - **Market the System:** Promote the benefits of Multitonic to potential customers.  
    - **Establish Revenue Streams:** Begin generating revenue through licenses.  
-   
-### Expected Outcomes  
+
+### Expected Outcomes
+
 1. **Increased Data Availability:** A significant increase in the availability of intermediate results and failed experiment data.  
 2. **Research Efficiency:** Reduction in duplication of research efforts and enhanced learning opportunities.  
 3. **Sustainable Business:** A self-sustaining business model through licensing.  
-   
+
 ### Evaluation and Metrics  
+
 - **User Adoption:** Number of institutions deploying the Multitonic system.  
 - **Data Published:** Volume of intermediate results published.  
 - **User Satisfaction:** Feedback from participating institutions.  
 - **Revenue Generation:** Success in transitioning to a revenue-generating model.  
-   
-### Enter the Multitonic Project  
-The Multitonic Project aims to revolutionize the way intermediate experimental results are captured and shared within the research community. By addressing the critical issue of unpublished failed experiments, Multitonic will enhance research efficiency, foster collaboration, and eventually establish a sustainable business model.
 
+### Enter the Multitonic Project
+
+The Multitonic Project aims to revolutionize the way intermediate experimental results are captured and shared within the research community. By addressing the critical issue of unpublished failed experiments, Multitonic will enhance research efficiency, foster collaboration, and eventually establish a sustainable business model.
 
 ![multitonicdiagram2](https://github.com/MultiTonic/.github/assets/18212928/607f9be3-a183-41b8-87c4-f9f82fd2c725)
 
@@ -152,8 +136,6 @@ Multitonic is an advanced multi-system ecosystem deployed on the Azure Cloud. It
 
 Multitonic represents a sophisticated and highly integrated cloud architecture designed to automate data gathering and reporting across diverse business operations. By leveraging a combination of open-source technologies and Azure cloud services, Multitonic provides a scalable, secure, and efficient solution for managing and analyzing data, ultimately enhancing business intelligence and operational efficiency. The use of microservices ensures modularity and ease of maintenance, while the integration of AI-driven analyses adds significant value through automated insights and reporting.
 
-
-
 #### Top Layer: Presentation
 
 - **Components**:
@@ -164,19 +146,15 @@ Multitonic represents a sophisticated and highly integrated cloud architecture d
 
 - **Interactions**: Show interactions between the Web Interface, APIs, and the application layer.
 
-
-
 #### Second Layer: Application
 
-- **Components**: 
+- **Components**:
 
   - List microservices separately (Memory Management, Database Operations, Research, Publishing with GitHub integration, AI-Driven Analysis).
 
   - Service Mesh.
 
 - **Interactions**: Indicate communication through the service mesh and data flow to and from the Data and Integration Layers.
-
-
 
 #### Third Layer: Data
 
@@ -188,8 +166,6 @@ Multitonic represents a sophisticated and highly integrated cloud architecture d
 
 - **Interactions**: Data flow to/from the Application Layer, in-memory processing.
 
-
-
 #### Fourth Layer: Integration
 
 - **Components**:
@@ -200,8 +176,6 @@ Multitonic represents a sophisticated and highly integrated cloud architecture d
 
 - **Interactions**: Connections to external business and research systems.
 
-
-
 #### Fifth Layer: AI and Machine Learning
 
 - **Components**:
@@ -211,8 +185,6 @@ Multitonic represents a sophisticated and highly integrated cloud architecture d
   - AI-Driven Analysis Service.
 
 - **Interactions**: Exchange of models and insights with Application and Data Layers.
-
-
 
 #### Bottom Layer: Infrastructure and Operations
 
@@ -230,3 +202,35 @@ Multitonic represents a sophisticated and highly integrated cloud architecture d
 
 - **Interactions**: Support interactions show how these foundational services support all other layers.
 
+### Proposed Implementation
+
+
+
+### Budget
+
+| Maximum Budget Scenario Self-Hosting       |
+|------------------|
+| ![Scenario 1](path/to/scenario1.png) |
+
+| Reduced Budget Scenario Self-Hosting       |
+|------------------|
+| ![Scenario 2](path/to/scenario2.png) |
+
+| Minimum Budget Scenario Self-Hosting       |
+|------------------|
+| ![Scenario 3](path/to/scenario3.png) |
+
+#### Additional Budget Scenarios
+
+| Github Maximum Budget Scenario | Gitlab Maximum Budget Scenario | 
+|------------------|------------------|
+| ![maximumbudgetscenariowithgithub](https://github.com/MultiTonic/.github/assets/18212928/c493425b-ed3f-4855-a17b-163e7ff97c8d) | ![maximumbudgetscenariowithgitlab](https://github.com/MultiTonic/.github/assets/18212928/973d1aab-057e-408a-a447-e64e799e3a5a)|
+
+| Github Reduced Budget Scenario | Gitlab Reduced Budget Scenario | 
+|------------------|------------------|
+| ![300kbudgetscenariowithgithub](https://github.com/MultiTonic/.github/assets/18212928/09af16d6-7327-4781-8216-c4b30ec97f73) | ![300kbudgetscenariowithgitlab](https://github.com/MultiTonic/.github/assets/18212928/4c1902f1-5c43-4740-beb0-f194c34ea2bc)|
+
+
+| Github Minimum Budget Scenario | Gitlab Minimum Budget Scenario | 
+|------------------|------------------|
+|![mingithub](https://github.com/MultiTonic/.github/assets/18212928/6f7944ed-89be-4800-b4d8-07f1a347e4c5)| ![mingitlab](https://github.com/MultiTonic/.github/assets/18212928/4283690c-bad1-43a3-b271-cf1e8dd581b5) |
