@@ -68,6 +68,8 @@ The Multitonic Project aims to revolutionize the way intermediate experimental r
 
 ### Multitonic Cloud Architecture Description
 
+Multitonic represents a sophisticated and highly integrated cloud architecture designed to automate data gathering and reporting across diverse business operations. By leveraging a combination of open-source technologies and Azure cloud services, Multitonic provides a scalable, secure, and efficient solution for managing and analyzing data, ultimately enhancing business intelligence and operational efficiency. The use of microservices ensures modularity and ease of maintenance, while the integration of AI-driven analyses adds significant value through automated insights and reporting.
+
 #### Overview
 
 Multitonic is an advanced multi-system ecosystem deployed on the Azure Cloud. It leverages a self-managed Debian Linux stack and incorporates a suite of frameworks and services to automate data gathering and report generation across various business domains such as accounting, legal, payroll, and specific medical research tasks. The system is designed to be highly flexible and self-sufficient, integrating AI-driven analyses and various microservices to enhance operational efficiency.
@@ -131,10 +133,6 @@ Multitonic is an advanced multi-system ecosystem deployed on the Azure Cloud. It
 
 - **Load Balancers**: Distribute incoming traffic across multiple servers to ensure high availability and reliability.
 - **Auto-Scaling**: Automatically adjusts the number of running instances based on load, ensuring that the system can handle varying levels of demand.
-
-#### Summary
-
-Multitonic represents a sophisticated and highly integrated cloud architecture designed to automate data gathering and reporting across diverse business operations. By leveraging a combination of open-source technologies and Azure cloud services, Multitonic provides a scalable, secure, and efficient solution for managing and analyzing data, ultimately enhancing business intelligence and operational efficiency. The use of microservices ensures modularity and ease of maintenance, while the integration of AI-driven analyses adds significant value through automated insights and reporting.
 
 #### Top Layer: Presentation
 
