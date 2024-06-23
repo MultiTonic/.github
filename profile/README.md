@@ -258,3 +258,21 @@ Multitonic represents a sophisticated and highly integrated cloud architecture d
 | Github Minimum Budget Scenario | Gitlab Minimum Budget Scenario |
 |------------------|------------------|
 | ![minimum_budget_scenario_with_github_resell_license](https://github.com/MultiTonic/.github/assets/18212928/f80083e4-16d7-4362-b166-a8fab6efd8e5) | ![minimum_budget_scenario_with_gitlab_resell_license](https://github.com/MultiTonic/.github/assets/18212928/c485bb2c-3fdd-4a03-812c-cb85b71f6662) |
+
+### Roadmap
+
+1. **Develop Advanced and Interactive Interface Options**
+   - Enhance the user interface to provide more advanced and interactive features for data visualization, plotting, and analysis.
+   - Integrate GUI tools that allow users to easily manipulate and interpret data, including support for complex formulas and real-time data updates.
+
+2. **Repackage GitLab or GitHub as a Specialized Product**
+   - Customize GitLab or GitHub to create a specialized version tailored for publishing intermediate experiment results.
+   - Ensure seamless integration with Multitonic's data pipeline and publishing mechanisms, providing a cohesive and streamlined user experience.
+
+3. **Expand Data Ingestion Pipelines**
+   - Increase the range of data sources that can be ingested into the Multitonic system, including various research equipment, IoT devices, and external databases.
+   - Develop robust data connectors and agents to facilitate seamless and efficient data gathering from multiple sources.
+
+4. **Connect to Office365 and Downstream Applications**
+   - Enable integration with Office365 and other downstream applications to enhance collaboration and data sharing.
+   - Develop connectors and APIs to ensure smooth data flow between Multitonic and productivity tools, enabling researchers to utilize their existing workflows and tools effectively.
