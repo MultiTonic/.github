@@ -31,16 +31,16 @@ The Multitonic Project addresses a critical gap in the research and publishing e
 
 | Maximum Budget Scenarios       |
 |------------------|------------------|
-| ![Scenario 1](path/to/scenario1.png) | ![Scenario 2](path/to/scenario2.png) |
+| ![maximumbudgetscenariowithgithub](https://github.com/MultiTonic/.github/assets/18212928/c493425b-ed3f-4855-a17b-163e7ff97c8d) | ![maximumbudgetscenariowithgitlab](https://github.com/MultiTonic/.github/assets/18212928/973d1aab-057e-408a-a447-e64e799e3a5a)|
 
 | Reduced Budget Scenarios     |
 |------------------|------------------|
-| ![Scenario 3](path/to/scenario3.png) | ![Scenario 4](path/to/scenario4.png) |
+| ![300kbudgetscenariowithgithub](https://github.com/MultiTonic/.github/assets/18212928/09af16d6-7327-4781-8216-c4b30ec97f73) | ![300kbudgetscenariowithgitlab](https://github.com/MultiTonic/.github/assets/18212928/4c1902f1-5c43-4740-beb0-f194c34ea2bc)|
 
 
 | Minimum Budget Scenarios       |
 |------------------|------------------|
-| ![Scenario 5](path/to/scenario5.png) | ![Scenario 6](path/to/scenario6.png) |
+|![mingithub](https://github.com/MultiTonic/.github/assets/18212928/6f7944ed-89be-4800-b4d8-07f1a347e4c5)| ![mingitlab](https://github.com/MultiTonic/.github/assets/18212928/4283690c-bad1-43a3-b271-cf1e8dd581b5) |
 
 
 ### Implementation Plan  
