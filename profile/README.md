@@ -29,16 +29,16 @@ The Multitonic Project addresses a critical gap in the research and publishing e
 
 ### Budget Scenarios 
 
-| Maximum Budget Scenarios       |
+| Github Maximum Budget Scenario | Gitlab Maximum Budget Scenario | 
 |------------------|------------------|
 | ![maximumbudgetscenariowithgithub](https://github.com/MultiTonic/.github/assets/18212928/c493425b-ed3f-4855-a17b-163e7ff97c8d) | ![maximumbudgetscenariowithgitlab](https://github.com/MultiTonic/.github/assets/18212928/973d1aab-057e-408a-a447-e64e799e3a5a)|
 
-| Reduced Budget Scenarios     |
+| Github Reduced Budget Scenario | Gitlab Reduced Budget Scenario | 
 |------------------|------------------|
 | ![300kbudgetscenariowithgithub](https://github.com/MultiTonic/.github/assets/18212928/09af16d6-7327-4781-8216-c4b30ec97f73) | ![300kbudgetscenariowithgitlab](https://github.com/MultiTonic/.github/assets/18212928/4c1902f1-5c43-4740-beb0-f194c34ea2bc)|
 
 
-| Minimum Budget Scenarios       |
+| Github Minimum Budget Scenario | Gitlab Minimum Budget Scenario | 
 |------------------|------------------|
 |![mingithub](https://github.com/MultiTonic/.github/assets/18212928/6f7944ed-89be-4800-b4d8-07f1a347e4c5)| ![mingitlab](https://github.com/MultiTonic/.github/assets/18212928/4283690c-bad1-43a3-b271-cf1e8dd581b5) |
 
