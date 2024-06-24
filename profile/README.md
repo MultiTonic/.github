@@ -273,9 +273,11 @@ Given the overall market size of USD 949.0 billion in 2022, a conservative estim
 
 Considering the innovative nature of Multitonic’s solutions and the current adoption rate of advanced technologies in AMCs, an initial conservative market penetration rate of 0.001% is projected. This translates to:  
 
-\[ \text{Market Penetration} = \text{Addressable Market} \times \text{Penetration Rate} \]
-\[ = 94.9 \text{ billion USD} \times 0.001\% \]
-\[ = 949,000 \text{ USD} \]
+$$
+\text{Market Penetration} = \text{Addressable Market} \times \text{Penetration Rate} \\
+= 94.9 \text{ billion USD} \times 0.001\% \\
+= 949,000 \text{ USD}
+$$
 
 By 2024, this conservative penetration rate suggests that Multitonic could capture approximately USD 949,000 of the addressable market. This initial penetration is expected to grow as AMCs increasingly recognize the value of operational efficiency and digital transformation in research processes.  
    
