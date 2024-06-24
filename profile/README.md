@@ -139,7 +139,6 @@ Multitonic is an advanced multi-system ecosystem deployed on the Azure Cloud. It
 - **Components**:
 
   - Web Interface hosted on Apache servers.
-
   - RESTful APIs.
 
 - **Interactions**: Show interactions between the Web Interface, APIs, and the application layer.
@@ -149,7 +148,6 @@ Multitonic is an advanced multi-system ecosystem deployed on the Azure Cloud. It
 - **Components**:
 
   - List microservices separately (Memory Management, Database Operations, Research, Publishing with GitHub integration, AI-Driven Analysis).
-
   - Service Mesh.
 
 - **Interactions**: Indicate communication through the service mesh and data flow to and from the Data and Integration Layers.
@@ -159,7 +157,6 @@ Multitonic is an advanced multi-system ecosystem deployed on the Azure Cloud. It
 - **Components**:
 
   - Central PostgreSQL Database.
-
   - In-Memory Data Stores.
 
 - **Interactions**: Data flow to/from the Application Layer, in-memory processing.
@@ -169,7 +166,6 @@ Multitonic is an advanced multi-system ecosystem deployed on the Azure Cloud. It
 - **Components**:
 
   - External Systems and APIs.
-
   - Data Gathering Agents.
 
 - **Interactions**: Connections to external business and research systems.
@@ -178,8 +174,7 @@ Multitonic is an advanced multi-system ecosystem deployed on the Azure Cloud. It
 
 - **Components**:
 
-  - AutoGen Framework for Model Training and Deployment.
-
+  - Multiagent Framework for Model Optimizations, Training and Deployment.
   - AI-Driven Analysis Service.
 
 - **Interactions**: Exchange of models and insights with Application and Data Layers.
@@ -189,13 +184,9 @@ Multitonic is an advanced multi-system ecosystem deployed on the Azure Cloud. It
 - **Components**:
 
   - Azure Kubernetes Service (AKS).
-
   - CI/CD Pipelines.
-
   - Identity and Access Management (IAM).
-
   - Load Balancers and Auto-Scaling.
-
   - Data Encryption protocols.
 
 - **Interactions**: Support interactions show how these foundational services support all other layers.
