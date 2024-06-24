@@ -70,11 +70,11 @@ Multitonic is grounded in market pull, and although it cant be applied to all da
 
 The Multitonic Project aims to revolutionize the way intermediate experimental results are captured and shared within the research community. By addressing the critical issue of unpublished failed experiments, Multitonic will enhance research efficiency, foster collaboration, and eventually establish a sustainable business model.
 
-![multitonicdiagram2](https://github.com/MultiTonic/.github/assets/18212928/607f9be3-a183-41b8-87c4-f9f82fd2c725)
-
-### Multitonic Cloud Architecture Description
+### Multitonic Cloud Architecture
 
 Multitonic represents a sophisticated and highly integrated cloud architecture designed to automate data gathering and reporting across diverse business operations. By leveraging a combination of open-source technologies and Azure cloud services, Multitonic provides a scalable, secure, and efficient solution for managing and analyzing data, ultimately enhancing business intelligence and operational efficiency. The use of microservices ensures modularity and ease of maintenance, while the integration of AI-driven analyses adds significant value through automated insights and reporting.
+
+![multitonicdiagram2](https://github.com/MultiTonic/.github/assets/18212928/607f9be3-a183-41b8-87c4-f9f82fd2c725)
 
 #### Overview
 
