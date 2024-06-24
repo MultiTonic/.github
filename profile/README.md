@@ -10,6 +10,10 @@ The Multitonic Project addresses a critical gap in the research and publishing e
 4. **Create a Network of Stakeholders:** Establish a network of institutions and researchers that regularly publish data.  
 5. **Develop a Sustainable Business Model:** Transition from initial funding to a revenue-generating model through licensing.  
 
+### How It Started
+
+Multitonic is grounded in market pull, and although it cant be applied to all data and all experiments, working closely with stakeholders is how we get access to data.
+
 ### Project Components
 
 1. **Data Pipeline:**
