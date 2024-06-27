@@ -12,6 +12,9 @@ The Multitonic Project addresses a critical gap in the research and publishing e
 
 ### How It Started
 
+complete thread :
+https://x.com/jdpereira/status/1791814101947068512
+
 ![Screenshot 2024-06-06 101412](https://github.com/MultiTonic/.github/assets/18212928/f497e8ce-fb08-44dc-864e-a0a8a986b6f4)
 
 Multitonic is grounded in market pull, and although it cant be applied to all data and all experiments, working closely with stakeholders is how we get access to data.
