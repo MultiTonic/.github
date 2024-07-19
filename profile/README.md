@@ -38,8 +38,8 @@ Multitonic is grounded in market pull, and although it cant be applied to all da
 
 1. **Phase 1: Initial Setup (Months 1-2)**  
    - **Establish Core Team:** Hire principal and consulting team.  
-   - **Develop Core Technology:** Build and test the initial version of the Multitonic stack.  
-   - **Set Up Hosting:** Arrange AI hosting infrastructure.  
+   - **Develop Data Audit Technology:** Build and test a data availability audit our clients can use immediately.  
+   - **Set Up Hosting:** Build and test the initial version of the Multitonic stack.
 
 2. **Phase 2: Pilot Program (Months 2-4)**  
    - **Recruit Early Adopters:** Identify and onboard initial stakeholder institutions.  
@@ -231,31 +231,7 @@ Multitonic is an advanced multi-system ecosystem deployed on the Azure Cloud. It
 
 ### Budget
 
-| Maximum Budget Scenario Self-Hosting       |
-|------------------|
-| ![maximum_budget_scenario_self-hosting](https://github.com/MultiTonic/.github/assets/18212928/e23ff61f-a947-421d-92d7-b035df1ba7da) |
 
-| Reduced Budget Scenario Self-Hosting       |
-|------------------|
-| ![reduced_budget_scenario_self-hosting](https://github.com/MultiTonic/.github/assets/18212928/6c91acab-81d5-4a62-bfe6-3ecde620f89c) |
-
-| Minimum Budget Scenario Self-Hosting       |
-|------------------|
-| ![minimum_budget_scenario_self-hosting](https://github.com/MultiTonic/.github/assets/18212928/f4f4567d-a3d3-4084-a99e-cc591df41fc4) |
-
-#### Additional Budget Scenarios
-
-| Github Maximum Budget Scenario | Gitlab Maximum Budget Scenario |
-|------------------|------------------|
-| ![maximum_budget_scenario_with_self-hosted_github](https://github.com/MultiTonic/.github/assets/18212928/8cc485b7-19b0-4675-b25d-8a48a80c255a) | ![maximum_budget_scenario_with_gitlab_resell_license](https://github.com/MultiTonic/.github/assets/18212928/40640a06-b322-409e-a2f6-69633f70d8ba)|
-
-| Github Reduced Budget Scenario | Gitlab Reduced Budget Scenario |
-|------------------|------------------|
-| ![reduced_budget_scenario_with_self-hosted_github](https://github.com/MultiTonic/.github/assets/18212928/ea536d04-5c53-48d6-8ec8-7a6da3886db8) | ![reduced_budget_scenario_with_gitlab_resell_license](https://github.com/MultiTonic/.github/assets/18212928/d0b8ab63-5a7d-427b-8d67-7a339c416c46)|
-
-| Github Minimum Budget Scenario | Gitlab Minimum Budget Scenario |
-|------------------|------------------|
-| ![minimum_budget_scenario_with_github_resell_license](https://github.com/MultiTonic/.github/assets/18212928/f80083e4-16d7-4362-b166-a8fab6efd8e5) | ![minimum_budget_scenario_with_gitlab_resell_license](https://github.com/MultiTonic/.github/assets/18212928/c485bb2c-3fdd-4a03-812c-cb85b71f6662) |
 
 ### Market Overview  
 
