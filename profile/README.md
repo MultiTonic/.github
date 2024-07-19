@@ -231,6 +231,7 @@ Multitonic is an advanced multi-system ecosystem deployed on the Azure Cloud. It
 
 ### Budget
 
+![program_budget_200k](https://github.com/user-attachments/assets/721f6139-e924-4671-b49d-f041012581f3)
 
 
 ### Market Overview  
